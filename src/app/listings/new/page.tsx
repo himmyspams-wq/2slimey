@@ -102,7 +102,7 @@ export default function NewListingPage() {
     <div className="container-main py-10 max-w-3xl">
       <div className="mb-8">
         <h1 className="font-serif text-3xl font-bold text-navy-800">List Your Reel</h1>
-        <p className="text-navy-500 mt-1">Fill in the details to list your reel on 2Slimey.</p>
+        <p className="text-navy-500 mt-1">Fill in the details to list your reel on ReelMarket.</p>
       </div>
 
       {serverError && (

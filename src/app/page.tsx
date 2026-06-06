@@ -198,7 +198,7 @@ export default async function HomePage() {
             Ready to find your next reel?
           </h2>
           <p className="text-navy-300 text-lg mb-8 max-w-xl mx-auto">
-            Join thousands of anglers buying and selling premium fishing reels on 2Slimey.
+            Join thousands of anglers buying and selling premium fishing reels on ReelMarket.
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
             <Link href="/auth/register" className="btn-gold text-base px-8 py-3">

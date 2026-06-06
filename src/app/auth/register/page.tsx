@@ -82,7 +82,7 @@ export default function RegisterPage() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Fish className="h-8 w-8 text-navy-700" />
-            <span className="font-serif text-2xl font-bold text-navy-800">2SLIMEY</span>
+            <span className="font-serif text-2xl font-bold text-navy-800">REELMARKET</span>
             <span className="text-gold-500 text-2xl font-bold">.</span>
           </div>
           <h1 className="font-serif text-3xl font-bold text-navy-800">Create Account</h1>

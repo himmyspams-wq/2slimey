@@ -7,7 +7,7 @@ export default function VerifyRequestPage() {
       <div className="card p-10 max-w-md w-full text-center">
         <div className="flex items-center justify-center gap-2 mb-6">
           <Fish className="h-7 w-7 text-navy-700" />
-          <span className="font-serif text-xl font-bold text-navy-800">2SLIMEY</span>
+          <span className="font-serif text-xl font-bold text-navy-800">REELMARKET</span>
           <span className="text-gold-500 text-xl font-bold">.</span>
         </div>
 
@@ -21,7 +21,7 @@ export default function VerifyRequestPage() {
 
         <p className="text-navy-600 leading-relaxed mb-2">
           A magic link has been sent to your email address. Click the link in the email to sign in
-          to your 2Slimey account.
+          to your ReelMarket account.
         </p>
 
         <p className="text-navy-400 text-sm mt-4">

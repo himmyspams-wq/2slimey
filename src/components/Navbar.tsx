@@ -35,7 +35,7 @@ export default function Navbar() {
             <div className="flex items-center gap-1">
               <Fish className="h-7 w-7 text-navy-700 group-hover:text-gold-600 transition-colors" />
               <span className="font-serif text-2xl font-bold text-navy-800 tracking-tight">
-                2SLIMEY
+                REELMARKET
               </span>
               <span className="text-gold-500 text-2xl font-bold leading-none mt-1">.</span>
             </div>

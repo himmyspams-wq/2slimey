@@ -36,7 +36,7 @@ function ErrorContent() {
     <div className="card p-10 max-w-md w-full text-center">
       <div className="flex items-center justify-center gap-2 mb-6">
         <Fish className="h-7 w-7 text-navy-700" />
-        <span className="font-serif text-xl font-bold text-navy-800">2SLIMEY</span>
+        <span className="font-serif text-xl font-bold text-navy-800">REELMARKET</span>
         <span className="text-gold-500 text-xl font-bold">.</span>
       </div>
 

@@ -43,7 +43,7 @@ export default function ReportListingPage() {
           <CheckCircle2 className="h-12 w-12 text-green-600 mx-auto mb-4" />
           <h2 className="font-serif text-2xl font-bold text-navy-800 mb-2">Report Submitted</h2>
           <p className="text-navy-600 text-sm mb-6">
-            Thank you for helping keep 2Slimey premium. Our team will review this listing.
+            Thank you for helping keep ReelMarket premium. Our team will review this listing.
           </p>
           <button onClick={() => router.back()} className="btn-secondary">
             Go Back

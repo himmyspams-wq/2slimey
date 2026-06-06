@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="md:col-span-1">
             <div className="flex items-center gap-2 mb-3">
               <Fish className="h-6 w-6 text-gold-400" />
-              <span className="font-serif text-xl font-bold text-white">2SLIMEY</span>
+              <span className="font-serif text-xl font-bold text-white">REELMARKET</span>
               <span className="text-gold-400 text-xl font-bold">.</span>
             </div>
             <p className="text-navy-300 text-sm leading-relaxed">
@@ -84,7 +84,7 @@ export default function Footer() {
 
         <div className="border-t border-navy-800 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-navy-400 text-sm">
-            &copy; {new Date().getFullYear()} 2Slimey. All rights reserved.
+            &copy; {new Date().getFullYear()} ReelMarket. All rights reserved.
           </p>
           <p className="text-navy-500 text-xs">
             Only premium, top-tier fishing reel brands. No exceptions.

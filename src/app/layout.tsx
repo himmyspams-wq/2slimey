@@ -20,16 +20,16 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXTAUTH_URL || 'http://localhost:3000'),
   title: {
-    template: '%s | 2Slimey — Premium Fishing Reel Marketplace',
-    default: '2Slimey — Premium Fishing Reel Marketplace',
+    template: '%s | ReelMarket — Premium Fishing Reel Marketplace',
+    default: 'ReelMarket — Premium Fishing Reel Marketplace',
   },
   description:
     'Buy and sell the world\'s finest fishing reels. Peer-to-peer marketplace for premium brands including Shimano, Daiwa, Abel, Hardy, and more.',
   keywords: ['fishing reels', 'used fishing reels', 'buy fishing reels', 'sell fishing reels', 'Shimano', 'Daiwa', 'Abel', 'Hardy'],
   openGraph: {
     type: 'website',
-    siteName: '2Slimey',
-    title: '2Slimey — Premium Fishing Reel Marketplace',
+    siteName: 'ReelMarket',
+    title: 'ReelMarket — Premium Fishing Reel Marketplace',
     description: 'The premier marketplace for premium fishing reels.',
   },
 };
