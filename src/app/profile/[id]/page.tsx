@@ -8,6 +8,8 @@ import { prisma } from '@/lib/prisma';
 import { formatRelativeTime, getInitials } from '@/lib/utils';
 import ListingCard from '@/components/ListingCard';
 
+export const dynamic = 'force-dynamic';
+
 interface PublicProfilePageProps {
   params: { id: string };
 }

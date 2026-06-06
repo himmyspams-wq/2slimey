@@ -14,6 +14,8 @@ import BrandBadge from '@/components/BrandBadge';
 import ConditionBadge from '@/components/ConditionBadge';
 import DeleteListingButton from './DeleteListingButton';
 
+export const dynamic = 'force-dynamic';
+
 interface ListingDetailPageProps {
   params: { id: string };
 }

@@ -6,6 +6,8 @@ import ListingCard from '@/components/ListingCard';
 import SearchFilters from '@/components/SearchFilters';
 import { SlidersHorizontal, Plus } from 'lucide-react';
 
+export const dynamic = 'force-dynamic';
+
 const PER_PAGE = 12;
 
 interface SearchParams {

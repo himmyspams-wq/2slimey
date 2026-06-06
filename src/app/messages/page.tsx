@@ -7,6 +7,8 @@ import { authOptions } from '@/lib/auth';
 import { prisma } from '@/lib/prisma';
 import { formatRelativeTime, getInitials } from '@/lib/utils';
 
+export const dynamic = 'force-dynamic';
+
 async function getConversations(userId: string) {
   try {
     const participants = await prisma.conversationParticipant.findMany({

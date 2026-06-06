@@ -4,6 +4,8 @@ import { prisma } from '@/lib/prisma';
 import { ALLOWED_BRANDS } from '@/lib/brands';
 import ListingCard from '@/components/ListingCard';
 
+export const dynamic = 'force-dynamic';
+
 async function getLatestListings() {
   try {
     return await prisma.listing.findMany({
